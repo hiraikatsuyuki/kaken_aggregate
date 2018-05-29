@@ -1,3 +1,4 @@
 # kaken_aggregate
 
-- config.iniは ../setting/ ディレクトリに、事前に準備しておいてください。
+### parse_kaken_masterで作ったローカルのデータベースから、いろいろ集計します。
+- config.iniは ../settings/ ディレクトリに、事前に準備しておいてください。
